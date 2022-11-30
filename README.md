@@ -1,4 +1,4 @@
-## Welcome to Steem Seven Commentaries
+## Welcome to Steem Upvote and Commentaries
 
 This bot will help curators to the Steem Blockchain to leave comments automatically in each post what they upvote. Anyone can use it following a few steps.
 
