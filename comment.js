@@ -4,7 +4,13 @@ const fs = require('fs');
 // let db          = new Db();
 let settings    = [];  
 
-let message = ``;
+let message = `Hello, friend!
+
+This post has been upvoted on by the [Steemgoon](https://steemit.com/@steemgoon) curation team.
+
+<hr>
+
+<sub>If you would like to support us, please consider voting for our [witness](https://steemlogin.com/sign/account-witness-vote?witness=steemgoon.witnez&amp;approve=1) and get daily upvote to your post.</sub>`;
 
 async function main() {
     data();
